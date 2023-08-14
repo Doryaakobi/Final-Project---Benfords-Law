@@ -1,0 +1,16 @@
+The simulator does not contains groups with less than 1% of votes
+Therefore the groups has a different id
+
+group 1 sim = group 1
+group 2 sim = group 3
+group 3 sim = group 4
+group 4 sim = group 5
+group 5 sim = group 6
+group 6 sim = group 11
+group 7 sim = group 17
+group 8 sim = group 19
+group 9 sim = group 20
+group 10 sim = group 21
+group 11 sim = group 28
+group 12 sim = group 29
+group 13 sim = group 39

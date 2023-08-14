@@ -1,0 +1,484 @@
+
+file is: num1
+Digit 1: 26.82%
+Digit 2: 15.25%
+Digit 3: 13.72%
+Digit 4: 11.21%
+Digit 5: 8.25%
+Digit 6: 9.06%
+Digit 7: 7.26%
+Digit 8: 4.39%
+Digit 9: 4.04%
+
+
+file is: num2
+Digit 1: 41.69%
+Digit 2: 24.93%
+Digit 3: 12.74%
+Digit 4: 7.62%
+Digit 5: 4.99%
+Digit 6: 3.19%
+Digit 7: 2.63%
+Digit 8: 1.39%
+Digit 9: 0.83%
+
+
+file is: num3
+Digit 1: 30.10%
+Digit 2: 17.86%
+Digit 3: 12.65%
+Digit 4: 11.94%
+Digit 5: 8.16%
+Digit 6: 6.12%
+Digit 7: 5.92%
+Digit 8: 4.18%
+Digit 9: 3.06%
+
+
+file is: num4
+Digit 1: 41.68%
+Digit 2: 20.00%
+Digit 3: 10.97%
+Digit 4: 8.65%
+Digit 5: 6.06%
+Digit 6: 4.77%
+Digit 7: 3.10%
+Digit 8: 2.58%
+Digit 9: 2.19%
+
+
+file is: num5
+Digit 1: 47.77%
+Digit 2: 15.64%
+Digit 3: 11.73%
+Digit 4: 6.70%
+Digit 5: 5.59%
+Digit 6: 4.47%
+Digit 7: 1.68%
+Digit 8: 3.35%
+Digit 9: 3.07%
+
+
+file is: num6
+Digit 1: 42.21%
+Digit 2: 20.25%
+Digit 3: 12.77%
+Digit 4: 8.10%
+Digit 5: 3.74%
+Digit 6: 4.67%
+Digit 7: 2.96%
+Digit 8: 2.96%
+Digit 9: 2.34%
+
+
+file is: num7
+Digit 1: 53.39%
+Digit 2: 22.03%
+Digit 3: 6.78%
+Digit 4: 8.47%
+Digit 5: 2.54%
+Digit 6: 4.24%
+Digit 7: 0.85%
+Digit 8: 0.85%
+Digit 9: 0.85%
+
+
+file is: num8
+Digit 1: 63.54%
+Digit 2: 15.62%
+Digit 3: 10.42%
+Digit 4: 5.21%
+Digit 5: 2.08%
+Digit 6: 0%
+Digit 7: 2.08%
+Digit 8: 1.04%
+Digit 9: 0%
+
+
+file is: num9
+Digit 1: 59.74%
+Digit 2: 16.88%
+Digit 3: 16.88%
+Digit 4: 2.60%
+Digit 5: 2.60%
+Digit 6: 1.30%
+Digit 7: 0%
+Digit 8: 0%
+Digit 9: 0%
+
+
+file is: num10
+Digit 1: 56.67%
+Digit 2: 21.67%
+Digit 3: 5.83%
+Digit 4: 6.67%
+Digit 5: 2.50%
+Digit 6: 4.17%
+Digit 7: 0.83%
+Digit 8: 1.67%
+Digit 9: 0%
+
+
+file is: num11
+Digit 1: 32.12%
+Digit 2: 17.32%
+Digit 3: 13.59%
+Digit 4: 9.35%
+Digit 5: 6.93%
+Digit 6: 5.71%
+Digit 7: 5.89%
+Digit 8: 4.85%
+Digit 9: 4.24%
+
+
+file is: num12
+Digit 1: 60.49%
+Digit 2: 15.12%
+Digit 3: 7.32%
+Digit 4: 5.37%
+Digit 5: 3.41%
+Digit 6: 2.44%
+Digit 7: 2.93%
+Digit 8: 1.46%
+Digit 9: 1.46%
+
+
+file is: num13
+Digit 1: 40.42%
+Digit 2: 26.11%
+Digit 3: 13.89%
+Digit 4: 7.08%
+Digit 5: 5.00%
+Digit 6: 2.22%
+Digit 7: 1.67%
+Digit 8: 1.53%
+Digit 9: 2.08%
+
+
+file is: num14
+Digit 1: 55.29%
+Digit 2: 20.00%
+Digit 3: 12.94%
+Digit 4: 3.53%
+Digit 5: 5.88%
+Digit 6: 0%
+Digit 7: 1.18%
+Digit 8: 1.18%
+Digit 9: 0%
+
+
+file is: num15
+Digit 1: 51.49%
+Digit 2: 21.78%
+Digit 3: 13.86%
+Digit 4: 3.96%
+Digit 5: 4.95%
+Digit 6: 1.98%
+Digit 7: 0%
+Digit 8: 0.99%
+Digit 9: 0.99%
+
+
+file is: num16
+Digit 1: 54.48%
+Digit 2: 18.66%
+Digit 3: 8.21%
+Digit 4: 6.72%
+Digit 5: 5.97%
+Digit 6: 1.49%
+Digit 7: 2.24%
+Digit 8: 2.24%
+Digit 9: 0%
+
+
+file is: num17
+Digit 1: 27.37%
+Digit 2: 11.63%
+Digit 3: 11.98%
+Digit 4: 9.84%
+Digit 5: 9.92%
+Digit 6: 9.24%
+Digit 7: 6.84%
+Digit 8: 7.44%
+Digit 9: 5.73%
+
+
+file is: num18
+Digit 1: 52.17%
+Digit 2: 18.84%
+Digit 3: 12.32%
+Digit 4: 7.25%
+Digit 5: 2.90%
+Digit 6: 2.90%
+Digit 7: 2.90%
+Digit 8: 0%
+Digit 9: 0.72%
+
+
+file is: num19
+Digit 1: 34.74%
+Digit 2: 11.94%
+Digit 3: 11.64%
+Digit 4: 10.86%
+Digit 5: 6.16%
+Digit 6: 7.63%
+Digit 7: 7.44%
+Digit 8: 5.58%
+Digit 9: 4.01%
+
+
+file is: num20
+Digit 1: 31.79%
+Digit 2: 18.63%
+Digit 3: 11.51%
+Digit 4: 9.11%
+Digit 5: 7.53%
+Digit 6: 7.20%
+Digit 7: 4.55%
+Digit 8: 4.97%
+Digit 9: 4.72%
+
+
+file is: num21
+Digit 1: 30.58%
+Digit 2: 19.47%
+Digit 3: 15.19%
+Digit 4: 9.97%
+Digit 5: 6.93%
+Digit 6: 4.56%
+Digit 7: 5.13%
+Digit 8: 4.56%
+Digit 9: 3.61%
+
+
+file is: num22
+Digit 1: 65.71%
+Digit 2: 17.14%
+Digit 3: 7.62%
+Digit 4: 3.81%
+Digit 5: 1.90%
+Digit 6: 1.90%
+Digit 7: 0.95%
+Digit 8: 0%
+Digit 9: 0.95%
+
+
+file is: num23
+Digit 1: 57.92%
+Digit 2: 15.84%
+Digit 3: 6.93%
+Digit 4: 7.92%
+Digit 5: 3.96%
+Digit 6: 1.98%
+Digit 7: 1.49%
+Digit 8: 3.96%
+Digit 9: 0%
+
+
+file is: num24
+Digit 1: 55.79%
+Digit 2: 18.95%
+Digit 3: 10.53%
+Digit 4: 2.11%
+Digit 5: 2.11%
+Digit 6: 2.11%
+Digit 7: 3.16%
+Digit 8: 3.16%
+Digit 9: 2.11%
+
+
+file is: num25
+Digit 1: 51.66%
+Digit 2: 20.38%
+Digit 3: 9.00%
+Digit 4: 5.69%
+Digit 5: 5.21%
+Digit 6: 3.32%
+Digit 7: 2.37%
+Digit 8: 0.95%
+Digit 9: 1.42%
+
+
+file is: num26
+Digit 1: 66.41%
+Digit 2: 15.23%
+Digit 3: 5.47%
+Digit 4: 3.91%
+Digit 5: 2.73%
+Digit 6: 1.17%
+Digit 7: 1.95%
+Digit 8: 1.56%
+Digit 9: 1.56%
+
+
+file is: num27
+Digit 1: 60.17%
+Digit 2: 11.86%
+Digit 3: 12.71%
+Digit 4: 3.39%
+Digit 5: 2.54%
+Digit 6: 3.39%
+Digit 7: 1.69%
+Digit 8: 1.69%
+Digit 9: 2.54%
+
+
+file is: num28
+Digit 1: 45.35%
+Digit 2: 19.47%
+Digit 3: 10.84%
+Digit 4: 9.07%
+Digit 5: 4.87%
+Digit 6: 3.10%
+Digit 7: 1.99%
+Digit 8: 3.76%
+Digit 9: 1.55%
+
+
+file is: num29
+Digit 1: 37.18%
+Digit 2: 18.85%
+Digit 3: 10.50%
+Digit 4: 7.92%
+Digit 5: 6.02%
+Digit 6: 4.65%
+Digit 7: 4.30%
+Digit 8: 5.51%
+Digit 9: 5.08%
+
+
+file is: num30
+Digit 1: 62.72%
+Digit 2: 15.05%
+Digit 3: 6.45%
+Digit 4: 6.45%
+Digit 5: 3.23%
+Digit 6: 1.43%
+Digit 7: 2.15%
+Digit 8: 1.79%
+Digit 9: 0.72%
+
+
+file is: num31
+Digit 1: 52.50%
+Digit 2: 22.26%
+Digit 3: 10.39%
+Digit 4: 5.38%
+Digit 5: 3.53%
+Digit 6: 1.86%
+Digit 7: 2.60%
+Digit 8: 0.74%
+Digit 9: 0.74%
+
+
+file is: num32
+Digit 1: 53.97%
+Digit 2: 15.34%
+Digit 3: 7.94%
+Digit 4: 5.29%
+Digit 5: 6.88%
+Digit 6: 1.59%
+Digit 7: 3.17%
+Digit 8: 3.17%
+Digit 9: 2.65%
+
+
+file is: num33
+Digit 1: 59.79%
+Digit 2: 17.08%
+Digit 3: 9.96%
+Digit 4: 4.63%
+Digit 5: 3.20%
+Digit 6: 2.14%
+Digit 7: 1.07%
+Digit 8: 1.78%
+Digit 9: 0.36%
+
+
+file is: num34
+Digit 1: 53.24%
+Digit 2: 20.86%
+Digit 3: 7.91%
+Digit 4: 7.91%
+Digit 5: 2.88%
+Digit 6: 2.16%
+Digit 7: 2.16%
+Digit 8: 1.44%
+Digit 9: 1.44%
+
+
+file is: num35
+Digit 1: 52.50%
+Digit 2: 17.00%
+Digit 3: 9.50%
+Digit 4: 6.00%
+Digit 5: 7.50%
+Digit 6: 4.50%
+Digit 7: 1.00%
+Digit 8: 1.50%
+Digit 9: 0.50%
+
+
+file is: num36
+Digit 1: 52.78%
+Digit 2: 17.59%
+Digit 3: 9.72%
+Digit 4: 7.87%
+Digit 5: 2.78%
+Digit 6: 3.24%
+Digit 7: 2.78%
+Digit 8: 0.93%
+Digit 9: 2.31%
+
+
+file is: num37
+Digit 1: 31.53%
+Digit 2: 20.62%
+Digit 3: 14.11%
+Digit 4: 10.92%
+Digit 5: 7.50%
+Digit 6: 5.73%
+Digit 7: 3.86%
+Digit 8: 3.20%
+Digit 9: 2.54%
+
+
+file is: num38
+Digit 1: 50.36%
+Digit 2: 21.58%
+Digit 3: 7.19%
+Digit 4: 4.32%
+Digit 5: 3.60%
+Digit 6: 6.47%
+Digit 7: 2.16%
+Digit 8: 1.44%
+Digit 9: 2.88%
+
+
+file is: num39
+Digit 1: 31.01%
+Digit 2: 20.04%
+Digit 3: 14.06%
+Digit 4: 10.57%
+Digit 5: 6.58%
+Digit 6: 6.68%
+Digit 7: 5.08%
+Digit 8: 4.19%
+Digit 9: 1.79%
+
+
+file is: num40
+Digit 1: 52.17%
+Digit 2: 16.09%
+Digit 3: 9.57%
+Digit 4: 7.39%
+Digit 5: 5.22%
+Digit 6: 2.17%
+Digit 7: 4.35%
+Digit 8: 1.74%
+Digit 9: 1.30%
+
+
+
+Total cities: 1216
+
